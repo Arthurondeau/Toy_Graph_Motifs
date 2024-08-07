@@ -5,20 +5,12 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 [![GitHub License](https://img.shields.io/github/license/csebastiao/UrbanToyGraph)](https://github.com/csebastiao/UrbanToyGraph/blob/main/LICENSE)
 
-Toy graph to play with network metrics and algorithms mimicking typical urban patterns. The actual templates that can be modified by removing edges (and isolated nodes) are:
-
-- Grid graph: A grid of m columns and n nodes. Can select a different width and height.
-- Bridge graph: Two grids connected by a smaller number of edges.
-- Radial graph: Roads coming from a central node in a star-shaped structure. Can select the number of radial roads that will be evenly distributed around the central node.
-- Concentric graph: Nodes that are on connected circles. Can choose the number of radial roads and of circles (called zones). Can choose to put a central node connected to the first circle.
-- Fractal graph: Roads coming from a central node and branching in a fractal way. Can select the number of branches and the level of fractality desired.
-
 ## Installation
 
 First clone the repository in the folder of your choosing:
 
 ```
-git clone https://github.com/csebastiao/UrbanToyGraph.git
+git clone https://github.com/Arthurondeau/Toy_Graph_Motifs.git
 ```
 
 Locate yourself within the cloned folder, and create a new virtual environment. You can either create a new virtual environment then install the necessary dependencies with `pip` using the `requirements.txt` file:
@@ -27,11 +19,19 @@ Locate yourself within the cloned folder, and create a new virtual environment. 
 pip install -r requirements.txt
 ```
 
+Or create a new environment with the dependencies with `conda` or `mamba` using the `setup.sh` file based on `requirements.txt` file :
+
+
+```
+source setup.sh
+```
+
 Or create a new environment with the dependencies with `conda` or `mamba` using the `environment.yml` file:
 
 ```
 mamba env create -f environment.yml
 ```
+
 
 Once your environment is ready, you can locally install the package using:
 
