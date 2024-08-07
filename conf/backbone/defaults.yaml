@@ -1,0 +1,3 @@
+graph_path: ${hydra:runtime.cwd}/graphs_clusters # Graphs directory to extract bacbone
+backbone_path: ${hydra:runtime.cwd}/backbones_test/ #Save backbone directory
+threshold: 0.75 #Ratio of nodes to remove

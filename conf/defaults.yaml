@@ -1,0 +1,11 @@
+defaults:
+  - subgraphs: defaults
+  - embedding: defaults
+  - location_graph: defaults
+  - clustering: defaults
+  - graph_constructor: defaults
+  - inspect_features: defaults
+  - clean_graph: defaults
+  - backbone: defaults
+  - toyness_score: defaults
+crs: 3827 # CRS used to convert from default OSMNX CRS 4326 (degree) to meters

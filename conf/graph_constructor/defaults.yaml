@@ -1,0 +1,1 @@
+sav_dir: ${hydra:runtime.cwd}/template_graph/ #Template graph directory

@@ -1,0 +1,7 @@
+raw_graph_path: ${hydra:runtime.cwd}/graphs_clusters/ #directory of raw graphs
+sav_dir_raw: ${hydra:runtime.cwd}/pre_cleaned_backbones_test/ #Directory to save the gpkg raw file
+sav_dir_clean: ${hydra:runtime.cwd}/real_graphs_cleaned/ #Directory to save the cleaned gpkg file
+
+edge_features: #Features to keep after cleaning
+- length
+- geometry

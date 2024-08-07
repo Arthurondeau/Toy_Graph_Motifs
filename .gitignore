@@ -1,0 +1,16 @@
+backbones/
+cache/
+cleaned_backbones/
+data_subgraphs/
+graphs_clusters/
+not_cleaned_backbones/
+outputs/
+pre_cleaned_backbones/
+pre_cleaned_real_graphs/
+raw_graphs/
+real_graphs/
+real_graphs_cleaned/
+real_graphs_embeddings/
+template_graph/
+toy_graphs/
+toy_graphs_embeddings/

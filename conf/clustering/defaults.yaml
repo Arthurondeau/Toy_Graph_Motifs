@@ -1,0 +1,11 @@
+graph_path_training: ${hydra:runtime.cwd}/real_graphs_embeddings/ #Directory of graphs used for training UMAP
+graph_path_predict: ${hydra:runtime.cwd}/toy_graphs_embeddings/ #Directory of graphs used for UMAP prediction
+normalise: True #Normalise features 
+features_selection: False #If True, select the kbest_feat for projection
+compare_cluster_dist: True #Compute the correlation of inter/intra cluster distances
+Kbest_feats: 2 #Number of best features (in the cluster prediction) used for projection
+n_neighbors: 2 #Number of neighbors parameter for UMAP
+min_dist: 0.11 #Minimum distance parameter for UMAP
+n_components: 2 # Dimension of projected space
+random_state: 42 # Random seed for UMAP
+metric: manhattan # Distance used in UMAP projection

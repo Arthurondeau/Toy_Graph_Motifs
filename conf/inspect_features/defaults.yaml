@@ -1,0 +1,13 @@
+raw_graph_path: ${hydra:runtime.cwd}/real_graphs/ #Graph directory to inspect
+features_to_inspect:
+  - betweenness 
+  - straightness
+  - circular_footprint 
+  - rec_footprint 
+  - orientation_entropy 
+  - meshedness
+  - intersection_ratio
+  - deadends_ratio
+embedding: True #If True, compute the actual features used in embedding (kurtosis, skewness for a distribution for example), if not plot the raw features
+normalise: True # If True, normalise the features between all the graphs
+

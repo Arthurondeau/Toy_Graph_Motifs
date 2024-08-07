@@ -1,0 +1,3 @@
+sav_dir: ${hydra:runtime.cwd}/CSN_graphs/
+city_name: Paris
+alpha: 0.5 #Parameter to weight the two terms in Jaccard index

@@ -1,0 +1,8 @@
+subgraph_creation:
+  city_name: Manhattan #Location of city to extract subgraph
+  num_subgraphs_per_graph: 10
+  d_to_centroid: 1500
+  overlap_threshold: 0.6 #Threshold tolerance of overlaping area between two subgraph
+  save_path: ${hydra:runtime.cwd}/data_subgraphs/ #Save subgraph directory
+city_graph:
+  save_path: ${hydra:runtime.cwd}/city/

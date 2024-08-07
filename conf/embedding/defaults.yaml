@@ -1,0 +1,34 @@
+raw_graph_path: ${hydra:runtime.cwd}/real_graphs_cleaned/ #Directory of graphs to embed
+sav_dir : ${hydra:runtime.cwd}/real_graphs_embeddings/ #Embeddings directory
+features_list: #Note the defaults features included are {x,y,street_count}
+  - betweenness 
+  - straightness
+  - circular_footprint
+  - rec_footprint
+  - orientation_entropy 
+  - meshedness
+  - intersection_ratio
+  - deadends_ratio
+detailed_features_list: #List of actual features used in the clustering pipeline 
+  - BC_kurto
+  - BC_skew
+  - BC_IQR 
+  - BC_IQM
+  - SC_IQR
+  - SC_kurto
+  - SC_skew
+  - SC_IQM
+  - circular_footprint_kurto
+  - circular_footprint_skew
+  - circular_footprint_IQR
+  #- circular_footprint_IQM
+  - rec_footprint_kurto
+  - rec_footprint_skew
+  - rec_footprint_IQR 
+  #- rec_footprint_IQM
+  - Ho
+  - Hw
+  - Phi
+  - meshedness
+  - intersection_ratio
+  - deadends_ratio

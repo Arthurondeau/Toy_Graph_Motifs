@@ -1,0 +1,20 @@
+metrics: #Used metrics for toyness score
+  
+  - entropy_orientation_Phi
+  #- IQR_weights
+  - vmr
+  #- weight_entropy
+  - ks_test
+  #- skewness_weights
+  #- average_clustering_coefficient
+  #- std_test
+  #- kurtosis_weights
+
+
+  #- intersection_ratio
+  #- diptest_fn
+  #- gini_coeff
+graphs_path: ${hydra:runtime.cwd}/graphs_clusters/toy
+
+
+

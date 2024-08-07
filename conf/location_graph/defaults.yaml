@@ -1,0 +1,200 @@
+type_location : radioconcentric_mexico #Choose the location 
+sav_dir : ${hydra:runtime.cwd}/real_graphs/ #Directory to save the real extracted graph
+
+San_Francisco_grid:
+  location_point: 37.791427,-122.410018
+  dist: 750
+  dist_type: bbox
+  network_type: drive
+
+suburb:
+  location_point: 31.52853,34.60643
+  dist: 400
+  dist_type: bbox
+  network_type: drive
+
+suburb2:
+  location_point: 31.55525,34.59833
+  dist: 400
+  dist_type: bbox
+  network_type: drive
+
+medina:
+  location_point: 31.63020,-7.98784
+  dist: 400
+  dist_type: bbox
+  network_type: all
+
+NY:
+  location_point: 40.7469,-73.9885
+  dist: 700
+  dist_type: bbox
+  network_type: drive
+
+radioconcentric_mexico : 
+  location_point: 19.41994,-99.08802
+  dist: 340
+  dist_type: bbox
+  network_type: drive 
+
+suburb_abu_dhabi:
+  location_point: 24.3326,54.7680
+  dist: 800
+  dist_type: bbox
+  network_type: drive
+
+concentric_abu_dhabi:
+  location_point: 24.4449,54.7284
+  dist: 800
+  dist_type : bbox
+  network_type: drive
+
+prague_center:
+  location_point: 50.08744,14.42150
+  dist: 400
+  dist_type: bbox
+  network_type: drive
+
+toulouse_bridge: 
+  location_point: 43.6014,1.4387
+  dist: 500
+  dist_type: bbox
+  network_type: drive
+
+biscarrosse: 
+  location_point : 44.44689,-1.25075
+  dist: 200
+  dist_type: bbox
+  network_type: drive
+
+sanguinet:
+  location_point: 44.4741,-1.1997
+  dist: 300
+  dist_type: bbox
+  network_type: all
+
+bram:
+  location_point: 43.24361,2.11342
+  dist: 130
+  dist_type: bbox
+  network_type: all 
+
+brive_la_gaillarde:
+  location_point: 45.15878,1.53318
+  dist: 220
+  dist_type: bbox
+  network_type: all 
+
+caux:
+  location_point: 43.50704,3.36871
+  dist: 200
+  dist_type: bbox
+  network_type: all
+
+saint_pons:
+  location_point: 43.51355,3.51361
+  dist: 80
+  dist_type: bbox
+  network_type: all
+
+savigny_suburb1:
+  location_point: 48.6066,2.5615
+  dist: 400
+  dist_type: bbox
+  network_type: drive
+
+savigny_suburb2:
+  location_point: 48.6040,2.5499
+  dist: 400
+  dist_type: bbox
+  network_type: drive
+
+savigny_suburb3:
+  location_point: 48.5979,2.5686
+  dist: 600
+  dist_type: bbox
+  network_type: drive
+
+atlanta_suburb1:
+  location_point: 33.7477,-84.2438
+  dist: 700
+  dist_type: bbox
+  network_type: all
+
+atlanta_suburb2:
+  location_point: 33.7021,-84.2842
+  dist: 600
+  dist_type: bbox
+  network_type: all
+
+atlanta_suburb3:
+  location_point: 33.7024,-84.3053
+  dist: 600
+  dist_type: bbox
+  network_type: drive
+
+atlanta_suburb4:
+  location_point: 33.6719,-84.2348
+  dist: 600
+  dist_type: bbox
+  network_type: all
+
+los_angeles_grid1:
+  location_point: 33.9824,-118.3000
+  dist: 600
+  dist_type: bbox
+  network_type: all
+
+los_angeles_grid2:
+  location_point: 33.9439,-118.1989
+  dist: 600
+  dist_type: bbox
+  network_type: drive
+
+los_angeles_grid3:
+  location_point: 33.8996,-118.0917
+  dist: 600
+  dist_type: bbox
+  network_type: drive
+
+los_angeles_grid4:
+  location_point: 33.8996,-118.0917
+  dist: 600
+  dist_type: bbox
+  network_type: drive
+
+los_angeles_grid5:
+  location_point: 34.1641,-118.1218
+  dist: 600
+  dist_type: bbox
+  network_type: drive
+
+los_angeles_grid_w_diag:
+  location_point: 34.1724,-118.3359
+  dist: 1500
+  dist_type: bbox
+  network_type: drive
+
+concentric_new_delhi:
+  location_point: 28.63284,77.21983
+  dist: 350
+  dist_type: bbox
+  network_type: drive
+
+concentric_new_delhi2: 
+  location_point: 28.6057,77.2145
+  dist: 900
+  dist_type: bbox
+  network_type: drive
+
+san_francisco_grid1: 
+  location_point: 37.7518,-122.4871
+  dist: 680
+  dist_type: bbox
+  network_type: drive
+
+san_francisco_grid2: 
+  location_point: 37.7936,-122.4098
+  dist: 680
+  dist_type: bbox
+  network_type: drive
