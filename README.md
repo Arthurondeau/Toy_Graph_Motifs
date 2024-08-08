@@ -7,7 +7,7 @@
 
 
 
-## General Pipeline 
+## General Pipeline
 
 The general pipeline for clustering urban graphs is as follows: 
 - Run 'graph_location_extractor.py' to generate the real graphs
