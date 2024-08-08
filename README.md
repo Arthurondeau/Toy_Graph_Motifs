@@ -21,7 +21,6 @@ The general pipeline for clustering urban graphs is as follows:
 
 To modify all the access paths and parameters, please refer to the indications below in the available "Functionalities".
 
-Translated with DeepL.com (free version)
 ## Installation
 
 First clone the repository in the folder of your choosing:
