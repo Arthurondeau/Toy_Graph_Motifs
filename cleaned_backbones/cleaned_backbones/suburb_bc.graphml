@@ -1,0 +1,496 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d16" for="edge" attr.name="junction" attr.type="string"/>
+<key id="d15" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d14" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d13" for="edge" attr.name="to" attr.type="string"/>
+<key id="d12" for="edge" attr.name="from" attr.type="string"/>
+<key id="d11" for="edge" attr.name="length" attr.type="string"/>
+<key id="d10" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d9" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d7" for="edge" attr.name="name" attr.type="string"/>
+<key id="d6" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d5" for="node" attr.name="straightness" attr.type="string"/>
+<key id="d4" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d3" for="node" attr.name="x" attr.type="string"/>
+<key id="d2" for="node" attr.name="y" attr.type="string"/>
+<key id="d1" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d0" for="graph" attr.name="crs" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">epsg:4326</data>
+<data key="d1">True</data>
+<node id="2528947844">
+  <data key="d2">31.5271268</data>
+  <data key="d3">34.602561</data>
+  <data key="d4">4</data>
+  <data key="d5">8.046392973716687e-06</data>
+</node>
+<node id="2528947967">
+  <data key="d2">31.5272919</data>
+  <data key="d3">34.6029981</data>
+  <data key="d4">3</data>
+  <data key="d5">7.710473359522892e-06</data>
+</node>
+<node id="697244298">
+  <data key="d2">31.5255803</data>
+  <data key="d3">34.6041431</data>
+  <data key="d4">3</data>
+  <data key="d5">7.77224175959399e-06</data>
+</node>
+<node id="2528948091">
+  <data key="d2">31.5274129</data>
+  <data key="d3">34.6034808</data>
+  <data key="d4">3</data>
+  <data key="d5">7.515540317809926e-06</data>
+</node>
+<node id="697244258">
+  <data key="d2">31.529038</data>
+  <data key="d3">34.603838</data>
+  <data key="d4">3</data>
+  <data key="d5">7.416337504287149e-06</data>
+</node>
+<node id="5823777805">
+  <data key="d2">31.5281716</data>
+  <data key="d3">34.6041897</data>
+  <data key="d4">3</data>
+  <data key="d5">7.044214330785365e-06</data>
+</node>
+<node id="697238127">
+  <data key="d2">31.5297619</data>
+  <data key="d3">34.6035438</data>
+  <data key="d4">3</data>
+  <data key="d5">7.086736507247618e-06</data>
+</node>
+<node id="8442357841">
+  <data key="d2">31.5315039</data>
+  <data key="d3">34.602733</data>
+  <data key="d4">3</data>
+  <data key="d5">7.010000845141355e-06</data>
+</node>
+<node id="1412116834">
+  <data key="d2">31.5281442</data>
+  <data key="d3">34.6042013</data>
+  <data key="d4">3</data>
+  <data key="d5">7.046114773289918e-06</data>
+</node>
+<node id="11248019452">
+  <data key="d2">31.5256193</data>
+  <data key="d3">34.604186</data>
+  <data key="d4">3</data>
+  <data key="d5">7.77349071468841e-06</data>
+</node>
+<node id="4374355678">
+  <data key="d2">31.5252272</data>
+  <data key="d3">34.6037927</data>
+  <data key="d4">3</data>
+  <data key="d5">7.764454307977711e-06</data>
+</node>
+<node id="705771399">
+  <data key="d2">31.526037</data>
+  <data key="d3">34.6046097</data>
+  <data key="d4">3</data>
+  <data key="d5">7.670714093646605e-06</data>
+</node>
+<node id="2528947889">
+  <data key="d2">31.5251551</data>
+  <data key="d3">34.6044301</data>
+  <data key="d4">3</data>
+  <data key="d5">7.378259030916951e-06</data>
+</node>
+<node id="697244313">
+  <data key="d2">31.526542</data>
+  <data key="d3">34.6051021</data>
+  <data key="d4">4</data>
+  <data key="d5">7.868750529034451e-06</data>
+</node>
+<node id="697244325">
+  <data key="d2">31.5258167</data>
+  <data key="d3">34.6057989</data>
+  <data key="d4">3</data>
+  <data key="d5">7.317063209773152e-06</data>
+</node>
+<node id="4338166247">
+  <data key="d2">31.5273251</data>
+  <data key="d3">34.6044984</data>
+  <data key="d4">3</data>
+  <data key="d5">7.38261227300572e-06</data>
+</node>
+<node id="11247903728">
+  <data key="d2">31.5275473</data>
+  <data key="d3">34.6043626</data>
+  <data key="d4">3</data>
+  <data key="d5">7.4525170935509105e-06</data>
+</node>
+<node id="2528947999">
+  <data key="d2">31.5250569</data>
+  <data key="d3">34.6043241</data>
+  <data key="d4">1</data>
+  <data key="d5">7.284695721583325e-06</data>
+</node>
+<node id="4338166251">
+  <data key="d2">31.5279259</data>
+  <data key="d3">34.6042838</data>
+  <data key="d4">3</data>
+  <data key="d5">7.1741228006077895e-06</data>
+</node>
+<node id="11247903707">
+  <data key="d2">31.5276843</data>
+  <data key="d3">34.6043115</data>
+  <data key="d4">3</data>
+  <data key="d5">7.428009162690156e-06</data>
+</node>
+<node id="4338166241">
+  <data key="d2">31.5275626</data>
+  <data key="d3">34.6040555</data>
+  <data key="d4">3</data>
+  <data key="d5">7.458753045412915e-06</data>
+</node>
+<node id="11247903722">
+  <data key="d2">31.5275818</data>
+  <data key="d3">34.6043104</data>
+  <data key="d4">3</data>
+  <data key="d5">7.431424975806988e-06</data>
+</node>
+<node id="8721856235">
+  <data key="d2">31.5276526</data>
+  <data key="d3">34.6042949</data>
+  <data key="d4">3</data>
+  <data key="d5">7.4379608190219695e-06</data>
+</node>
+<edge source="2528947844" target="2528947967" id="0">
+  <data key="d6">245761667</data>
+  <data key="d7">ירושלים</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">True</data>
+  <data key="d10">False</data>
+  <data key="d11">45.51</data>
+  <data key="d12">2528947967</data>
+  <data key="d13">2528947844</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.602561 31.5271268, 34.6026748 31.5271576, 34.6027946 31.5271965, 34.6029247 31.5272518, 34.6029981 31.5272919)</data>
+</edge>
+<edge source="2528947844" target="697244298" id="0">
+  <data key="d6">55483133</data>
+  <data key="d7">שאר ישוב</data>
+  <data key="d8">residential</data>
+  <data key="d9">False</data>
+  <data key="d10">True</data>
+  <data key="d11">235.387</data>
+  <data key="d12">697244298</data>
+  <data key="d13">2528947844</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.602561 31.5271268, 34.6027214 31.5267809, 34.6027756 31.5266605, 34.6028778 31.5265094, 34.6029102 31.5264637, 34.6030278 31.5263208, 34.6031381 31.5261864, 34.6032037 31.5261457, 34.603722 31.5258317, 34.6040666 31.5256323, 34.6041431 31.5255803)</data>
+</edge>
+<edge source="2528947967" target="2528948091" id="0">
+  <data key="d6">435921955</data>
+  <data key="d7">ירושלים</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">False</data>
+  <data key="d10">True</data>
+  <data key="d11">47.702</data>
+  <data key="d12">2528948091</data>
+  <data key="d13">2528947967</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.6034808 31.5274129, 34.6031977 31.5273473, 34.6029981 31.5272919)</data>
+</edge>
+<edge source="697244298" target="11248019452" id="0">
+  <data key="d6">30957873</data>
+  <data key="d7">ירושלים</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">False</data>
+  <data key="d10">True</data>
+  <data key="d11">5.945</data>
+  <data key="d12">11248019452</data>
+  <data key="d13">697244298</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.604186 31.5256193, 34.6041431 31.5255803)</data>
+</edge>
+<edge source="697244298" target="4374355678" id="0">
+  <data key="d6">30957873</data>
+  <data key="d7">ירושלים</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">False</data>
+  <data key="d10">False</data>
+  <data key="d11">51.428</data>
+  <data key="d12">4374355678</data>
+  <data key="d13">697244298</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.6037927 31.5252272, 34.6038594 31.5252925, 34.6041431 31.5255803)</data>
+</edge>
+<edge source="2528948091" target="4338166241" id="0">
+  <data key="d6">435921955</data>
+  <data key="d7">ירושלים</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">False</data>
+  <data key="d10">True</data>
+  <data key="d11">56.96</data>
+  <data key="d12">4338166241</data>
+  <data key="d13">2528948091</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.6040555 31.5275626, 34.6038588 31.5275092, 34.6037522 31.527482, 34.6034808 31.5274129)</data>
+</edge>
+<edge source="697244258" target="5823777805" id="0">
+  <data key="d6">55483146</data>
+  <data key="d7">משה דיין</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">False</data>
+  <data key="d10">True</data>
+  <data key="d11">101.983</data>
+  <data key="d12">5823777805</data>
+  <data key="d13">697244258</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.6041897 31.5281716, 34.6039851 31.5286363, 34.6038847 31.5289105, 34.603838 31.529038)</data>
+</edge>
+<edge source="697244258" target="697238127" id="0">
+  <data key="d6">941561575</data>
+  <data key="d7">משה דיין</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">False</data>
+  <data key="d10">True</data>
+  <data key="d11">85.201</data>
+  <data key="d12">697238127</data>
+  <data key="d13">697244258</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.603838 31.529038, 34.6036307 31.5295666, 34.6035438 31.5297619)</data>
+</edge>
+<edge source="5823777805" target="1412116834" id="0">
+  <data key="d6">55483146</data>
+  <data key="d7">משה דיין</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">False</data>
+  <data key="d10">False</data>
+  <data key="d11">3.239</data>
+  <data key="d12">1412116834</data>
+  <data key="d13">5823777805</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.6041897 31.5281716, 34.6042013 31.5281442)</data>
+</edge>
+<edge source="697238127" target="8442357841" id="0">
+  <data key="d6">437412656</data>
+  <data key="d7">הרב בן ציון אבא שאול</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">False</data>
+  <data key="d10">True</data>
+  <data key="d11">220.016</data>
+  <data key="d12">8442357841</data>
+  <data key="d13">697238127</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.602733 31.5315039, 34.6028896 31.5314063, 34.6029286 31.5313806, 34.6029896 31.5313475, 34.6031226 31.5312238, 34.603238 31.5311029, 34.6034438 31.5307505, 34.6034727 31.530526, 34.6035057 31.530171, 34.6035438 31.5297619)</data>
+</edge>
+<edge source="1412116834" target="4338166251" id="0">
+  <data key="d6">1214049113</data>
+  <data key="d7">משה דיין</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">False</data>
+  <data key="d10">True</data>
+  <data key="d11">25.502</data>
+  <data key="d12">4338166251</data>
+  <data key="d13">1412116834</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.6042838 31.5279259, 34.6042013 31.5281442)</data>
+</edge>
+<edge source="11248019452" target="705771399" id="0">
+  <data key="d6">30957873</data>
+  <data key="d7">ירושלים</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">False</data>
+  <data key="d10">False</data>
+  <data key="d11">61.414</data>
+  <data key="d12">705771399</data>
+  <data key="d13">11248019452</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.604186 31.5256193, 34.6044224 31.5258609, 34.6046097 31.526037)</data>
+</edge>
+<edge source="11248019452" target="2528947889" id="0">
+  <data key="d6">56238019</data>
+  <data key="d7">הלל יפה</data>
+  <data key="d8">residential</data>
+  <data key="d9">False</data>
+  <data key="d10">True</data>
+  <data key="d11">58.12799999999999</data>
+  <data key="d12">2528947889</data>
+  <data key="d13">11248019452</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.604186 31.5256193, 34.6042762 31.5255551, 34.6043288 31.5254677, 34.6043651 31.5253496, 34.6044024 31.5252306, 34.6044301 31.5251551)</data>
+</edge>
+<edge source="2528947889" target="2528947999" id="0">
+  <data key="d6">245761659</data>
+  <data key="d7">בר אילן</data>
+  <data key="d8">residential</data>
+  <data key="d9">False</data>
+  <data key="d10">False</data>
+  <data key="d11">14.838</data>
+  <data key="d12">2528947999</data>
+  <data key="d13">2528947889</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.6043241 31.5250569, 34.6044301 31.5251551)</data>
+</edge>
+<edge source="697244313" target="705771399" id="0">
+  <data key="d6">30957873</data>
+  <data key="d7">ירושלים</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">False</data>
+  <data key="d10">False</data>
+  <data key="d11">73.016</data>
+  <data key="d12">705771399</data>
+  <data key="d13">697244313</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.6046097 31.526037, 34.6051021 31.526542)</data>
+</edge>
+<edge source="697244313" target="697244325" id="0">
+  <data key="d6">55483132</data>
+  <data key="d7">זלמן שנאור</data>
+  <data key="d8">residential</data>
+  <data key="d9">False</data>
+  <data key="d10">False</data>
+  <data key="d11">104.749</data>
+  <data key="d12">697244325</data>
+  <data key="d13">697244313</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.6057989 31.5258167, 34.6056789 31.5259979, 34.6054141 31.5262702, 34.6051021 31.526542)</data>
+</edge>
+<edge source="697244313" target="4338166247" id="0">
+  <data key="d6">[55556443, 437433924]</data>
+  <data key="d7">משה דיין</data>
+  <data key="d8">residential</data>
+  <data key="d9">False</data>
+  <data key="d10">True</data>
+  <data key="d11">106.69800000000001</data>
+  <data key="d12">4338166247</data>
+  <data key="d13">697244313</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.6044984 31.5273251, 34.6045464 31.5271897, 34.6045552 31.5271695, 34.6045862 31.5271022, 34.6046429 31.5269761, 34.6046871 31.5269068, 34.6047349 31.5268503, 34.6047738 31.5268053, 34.604893 31.526696, 34.6051021 31.526542)</data>
+</edge>
+<edge source="697244325" target="2528947889" id="0">
+  <data key="d6">56238019</data>
+  <data key="d7">הלל יפה</data>
+  <data key="d8">residential</data>
+  <data key="d9">False</data>
+  <data key="d10">True</data>
+  <data key="d11">186.049</data>
+  <data key="d12">2528947889</data>
+  <data key="d13">697244325</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.6044301 31.5251551, 34.6045308 31.5250811, 34.6046509 31.525024, 34.6047731 31.5249885, 34.604885 31.5249724, 34.6050331 31.524974, 34.6051902 31.5250148, 34.6052921 31.5250731, 34.6053984 31.5251681, 34.6055182 31.525346, 34.6056564 31.5255511, 34.6057989 31.5258167)</data>
+</edge>
+<edge source="4338166247" target="11247903728" id="0">
+  <data key="d6">941825519</data>
+  <data key="d7">משה דיין</data>
+  <data key="d8">residential</data>
+  <data key="d9">True</data>
+  <data key="d10">False</data>
+  <data key="d11">28.033</data>
+  <data key="d12">11247903728</data>
+  <data key="d13">4338166247</data>
+  <data key="d14">1</data>
+  <data key="d15">50</data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.6043626 31.5275473, 34.6043951 31.5275115, 34.604429 31.5274673, 34.6044642 31.5273984, 34.6044984 31.5273251)</data>
+</edge>
+<edge source="4338166251" target="11247903707" id="0">
+  <data key="d6">941825521</data>
+  <data key="d7">משה דיין</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">True</data>
+  <data key="d10">False</data>
+  <data key="d11">27.039</data>
+  <data key="d12">11247903707</data>
+  <data key="d13">4338166251</data>
+  <data key="d14">1</data>
+  <data key="d15">50</data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.6042838 31.5279259, 34.6042961 31.5278576, 34.6043057 31.5277979, 34.6043116 31.5277387, 34.6043115 31.5276843)</data>
+</edge>
+<edge source="4338166241" target="11247903722" id="0">
+  <data key="d6">941825524</data>
+  <data key="d7">ירושלים</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">True</data>
+  <data key="d10">False</data>
+  <data key="d11">24.744</data>
+  <data key="d12">11247903722</data>
+  <data key="d13">4338166241</data>
+  <data key="d14">1</data>
+  <data key="d15">50</data>
+  <data key="d16"></data>
+  <data key="d17">LINESTRING (34.6040555 31.5275626, 34.6041421 31.527586, 34.6041801 31.5275919, 34.6042239 31.5275937, 34.6042646 31.5275901, 34.6043104 31.5275818)</data>
+</edge>
+<edge source="11247903722" target="11247903728" id="0">
+  <data key="d6">1215879367</data>
+  <data key="d7">כיכר החנוכייה</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">True</data>
+  <data key="d10">False</data>
+  <data key="d11">6.356</data>
+  <data key="d12">11247903728</data>
+  <data key="d13">11247903722</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16">roundabout</data>
+  <data key="d17">LINESTRING (34.6043104 31.5275818, 34.6043248 31.5275672, 34.6043425 31.5275555, 34.6043626 31.5275473)</data>
+</edge>
+<edge source="11247903722" target="8721856235" id="0">
+  <data key="d6">1215879368</data>
+  <data key="d7">כיכר החנוכייה</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">True</data>
+  <data key="d10">False</data>
+  <data key="d11">8.225000000000001</data>
+  <data key="d12">8721856235</data>
+  <data key="d13">11247903722</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16">roundabout</data>
+  <data key="d17">LINESTRING (34.6042949 31.5276526, 34.6042922 31.5276343, 34.604294 31.5276158, 34.6043001 31.5275981, 34.6043104 31.5275818)</data>
+</edge>
+<edge source="8721856235" target="11247903707" id="0">
+  <data key="d6">1215879369</data>
+  <data key="d7">כיכר החנוכייה</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">True</data>
+  <data key="d10">False</data>
+  <data key="d11">3.877</data>
+  <data key="d12">11247903707</data>
+  <data key="d13">8721856235</data>
+  <data key="d14"></data>
+  <data key="d15"></data>
+  <data key="d16">roundabout</data>
+  <data key="d17">LINESTRING (34.6043115 31.5276843, 34.6043014 31.5276691, 34.6042949 31.5276526)</data>
+</edge>
+</graph></graphml>

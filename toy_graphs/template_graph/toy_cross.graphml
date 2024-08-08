@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="length" attr.type="string"/>
+<key id="d3" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d2" for="node" attr.name="y" attr.type="string"/>
+<key id="d1" for="node" attr.name="x" attr.type="string"/>
+<key id="d0" for="graph" attr.name="crs" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">3827</data>
+<node id="0">
+  <data key="d1">0</data>
+  <data key="d2">0</data>
+</node>
+<node id="1">
+  <data key="d1">50.0</data>
+  <data key="d2">0.0</data>
+</node>
+<node id="2">
+  <data key="d1">15.450849718747373</data>
+  <data key="d2">47.552825814757675</data>
+</node>
+<node id="3">
+  <data key="d1">-40.450849718747364</data>
+  <data key="d2">29.38926261462366</data>
+</node>
+<node id="4">
+  <data key="d1">-40.45084971874738</data>
+  <data key="d2">-29.38926261462365</data>
+</node>
+<node id="5">
+  <data key="d1">15.450849718747362</data>
+  <data key="d2">-47.55282581475768</data>
+</node>
+<edge source="0" target="1">
+  <data key="d3">LINESTRING (0 0, 50 0)</data>
+  <data key="d4">50.0</data>
+</edge>
+<edge source="0" target="2">
+  <data key="d3">LINESTRING (0 0, 15.450849718747373 47.552825814757675)</data>
+  <data key="d4">49.99999999999999</data>
+</edge>
+<edge source="0" target="3">
+  <data key="d3">LINESTRING (0 0, -40.450849718747364 29.38926261462366)</data>
+  <data key="d4">49.99999999999999</data>
+</edge>
+<edge source="0" target="4">
+  <data key="d3">LINESTRING (0 0, -40.45084971874738 -29.38926261462365)</data>
+  <data key="d4">50.0</data>
+</edge>
+<edge source="0" target="5">
+  <data key="d3">LINESTRING (0 0, 15.450849718747362 -47.55282581475768)</data>
+  <data key="d4">50.0</data>
+</edge>
+</graph></graphml>
