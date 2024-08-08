@@ -5,6 +5,23 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 [![GitHub License](https://img.shields.io/github/license/csebastiao/UrbanToyGraph)](https://github.com/csebastiao/UrbanToyGraph/blob/main/LICENSE)
 
+
+
+## General Pipeline 
+
+The general pipeline for clustering urban graphs is as follows: 
+- Run 'graph_location_extractor.py' to generate the real graphs
+- The graphs obtained are raw, to clean them you need to convert them into gpkg format by running `graphml_to_gpkg.py`, using a software such as QGIS, then convert the cleaned gpkg back into graphml by running `gpkg_to_graphml.py`.
+- Run `graph_constructor.py` to generate the template toy graph
+- Run `backbone_extractor.py` to generate the raw backbones extracted from the real cleaned graphs. You can also clean them up using the same procedure as above.
+- Put the template toy graphs and the cleaned backbones in the same folder (for example 'toy_graphs')
+- Run `graph_embedding.py` to generate the embeddings for the toy and real graphs.
+- Run `graph_projection.py` to display the 2D projection with UMAP and the clusters identified with HDBSCAN.
+
+
+To modify all the access paths and parameters, please refer to the indications below in the available "Functionalities".
+
+Translated with DeepL.com (free version)
 ## Installation
 
 First clone the repository in the folder of your choosing:
